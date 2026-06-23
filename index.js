@@ -1,0 +1,1 @@
+console.log("Hi there! I'm so pleased to be starting my journey using VSCode and GitHub.");
